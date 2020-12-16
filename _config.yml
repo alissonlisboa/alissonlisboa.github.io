@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://alissonlisboa.github.io/indigo
+url: https://alissonlisboa.github.io/blog
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
