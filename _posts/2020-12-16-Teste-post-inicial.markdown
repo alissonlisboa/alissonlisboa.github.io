@@ -7,7 +7,7 @@ headerImage: true
 tag:
 - markdown
 - elements
-star: true
+star: false
 category: blog
 author: alisson lisboa
 description: Markdown summary with different options
