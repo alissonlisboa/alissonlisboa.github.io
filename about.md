@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Aqui vos escreve um engenheiro mecânico de formação, que resolveu encarar o
-desafio de enfrentar uma transição de carreira em plena meia idade.</p>
+desafio de enfrentar uma transição de carreira para fazer aquilo que realmente gosta.</p>
 
 <p>Este blog esta sendo criado para registrar meus avanços na área de ciência
 de dados e também servir como referência para aqueles que estão iniciando nessa
@@ -20,7 +20,7 @@ de melhoria e aperfeiçoamento.</p>
 <h2>Skills (Conforme avanço)</h2>
 
 <ul class="skill-list">
-	<li>Python</li>
+	<li>Python, NumPy, Pandas</li>
 	<!-- <li>Machine Learning</li> -->
 	<!-- <li>Deep Learning</li> -->
 	<!-- <li>Git</li> -->
