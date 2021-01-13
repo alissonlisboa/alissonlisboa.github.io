@@ -14,7 +14,8 @@ de dados e também servir como referência para aqueles que estão iniciando nes
 <p>Espero que ajude àquelas pessoas que passarem por aqui buscando por alguma informação
 ou um norte de por onde começar os seus estudos.</p>
 
-<p></p>
+<p>Ficarei feliz em responder duvidas e questionamentos e também em receber sugestões
+de melhoria e aperfeiçoamento.</p>
 
 <h2>Skills (Conforme avanço)</h2>
 
