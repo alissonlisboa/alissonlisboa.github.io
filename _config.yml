@@ -1,6 +1,6 @@
 # main text of home
 name: Alisson Lisboa
-bio: Estudante de ciência de dados
+bio: Software Engineer
 
 # twitter summary info
 description: Blog feito para registrar meu aprendizado e avanço em Data Science
@@ -55,7 +55,7 @@ email: alisson_lisboa@hotmail.com
 authors:
   alissonlisboa:
     name: Alisson Lisboa
-    bio: Estudante de ciência de dados
+    bio: Software Engineer
     external-image: false
     picture: assets/images/profile.png
 #     twitter: johndoe
